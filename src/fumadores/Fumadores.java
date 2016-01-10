@@ -7,7 +7,7 @@ package fumadores;
 import monitor.*;
 /**
  *
- * @author fcis
+ * @author Fco Manuel Guerrero Jimènez
  */
 class Estanco extends AbstractMonitor
 { 
